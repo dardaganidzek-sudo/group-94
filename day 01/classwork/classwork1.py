@@ -7,5 +7,3 @@ print(name)
 print(age)
 print(lastname)
 
-
-print(lastname)
